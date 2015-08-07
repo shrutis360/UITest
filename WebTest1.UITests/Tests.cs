@@ -13,7 +13,7 @@ namespace WebTest1.UITests
 	{
 		iOSApp app;
 	
-		const string API_KEY = "b43f68b08956789bba6788339c844ebc";
+		const string API_KEY = "024b0d715a7e9c22388450cf0069cb19";
 		const string DEVICE_WIFI_IP = "172.31.98.128";
 		const string BUNDLE_IDENTIFIER = "com.xamarin.WebTest1";
 
